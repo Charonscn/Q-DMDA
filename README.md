@@ -1,0 +1,1 @@
+# Q-DMDA-Quaternion-Dual-Manifold-Domain-Adaptation-for-Cross-Subject-EEG-Motor-Imagery-Classification
