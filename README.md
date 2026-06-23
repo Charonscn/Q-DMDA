@@ -89,7 +89,7 @@ Each feature file follows this naming pattern:
 DATASET_LOSO_target_XX_spat_W4_logmap_gfk_k25.mat
 ```
 
-The feature files are loaded directly by `data.py`. No raw EEG files or feature-engineering scripts are needed for the released experiments.
+The feature files are loaded directly by `data.py`.
 
 ## Quick Start
 
