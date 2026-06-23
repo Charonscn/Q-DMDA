@@ -2,7 +2,7 @@
 
 # Q-DMDA
 
-Clean release code for Q-DMDA, a quaternion geometric domain adaptation method for cross-subject motor imagery EEG classification.
+Q-DMDA: a quaternion geometric domain adaptation method for cross-subject motor imagery EEG classification.
 
 This package contains runnable training code for the Blankertz and 2003004 datasets, together with the final precomputed compact quaternion-GFK feature files.
 
