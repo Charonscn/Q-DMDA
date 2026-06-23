@@ -42,7 +42,6 @@ scikit-learn
 einops
 ```
 
-MATLAB is not required for running this release because the final feature files are already included.
 
 ## Repository Layout
 
